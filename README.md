@@ -18,6 +18,8 @@ docker run -it chatbot-py
 
 ## Demo
 <img src="display_img/display_img.jpg"/>
+- May output accurate responses to trivial questions.
+- Can sometimes perform basic tasks (create sentences, transform sentences, answer questions based on another sentence, etc.)
 
 ## Things to take note of:
 - The model is not fine-tuned.
