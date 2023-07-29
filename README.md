@@ -28,4 +28,4 @@ docker run -it chatbot-py
 - May constantly repeat itself until a maximum of 100 tokens is met.
 
 ## Architecture
-<img src="https://machinelearningmastery.com/wp-content/uploads/2021/08/attention_research_1.png" width="660" height="930"/>
+<img src="https://machinelearningmastery.com/wp-content/uploads/2021/08/attention_research_1.png" width="330" height="465"/>
