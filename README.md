@@ -17,7 +17,7 @@ docker run -it chatbot-py
 - The chatbot is ready to be interacted with in the terminal after the `>>Q:` appears.
 
 ## Demo
-<img href="display_img/display_img.jpg">
+<img href="display_img/display_img.jpg"/>
 
 ## Things to take note of:
 - The model is not fine-tuned.
