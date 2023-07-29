@@ -65,9 +65,6 @@ while userI != "endofquery":
     userI = input("\n\n>> Q: ")
 
 
-# def infer(input):
-    # return detokenize(tf.cast(translate_token(input, 2, 3, transformer), dtype=tf.int32), 3)
-
 
 
 
