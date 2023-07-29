@@ -26,3 +26,6 @@ docker run -it chatbot-py
 - The model is not fine-tuned.
 - May output highly inaccurate data.
 - May constantly repeat itself until a maximum of 100 tokens is met.
+
+## Architecture
+<img src="https://machinelearningmastery.com/wp-content/uploads/2021/08/attention_research_1.png"/>
